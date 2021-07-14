@@ -2,7 +2,7 @@
 ## I'm Deepak 👋
 -🌱 I'm a Full-Stack Web Developer, a collaborative team player with well-honed communication skills.
 
-<h3> 👨🏻 &nbsp; About Me:</h3> 
+<h3> 👨🏻 &nbsp; About Me:</h3>
 
 - 🔭  I’m daily working on Sharpening my skills and developing projects with developers from all over the globe.
 - 👯  I’m looking forward to collaborate on Ruby,Rails,JavaScript Projects.
